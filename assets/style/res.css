@@ -516,5 +516,12 @@
     #xsmb{
         width: 100%;
         margin: 16px 0;
+        padding: 16px 0;
+    }
+    ul li{
+        font-size: 32px;
+    }
+    #start{
+        padding: 16px;
     }
 }
