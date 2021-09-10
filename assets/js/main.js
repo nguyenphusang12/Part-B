@@ -51,6 +51,6 @@ formElement.addEventListener('submit',function(e){
                 stopElement.classList.remove('successful');
                 stopElement.classList.add('failure');
             }
-        }, 1500);
+        }, 999);
     }
 });
